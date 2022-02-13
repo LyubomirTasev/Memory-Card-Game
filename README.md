@@ -1,1 +1,1 @@
-# Memory-Card-Game
+# Simple memory card game, created with JS, HTML and CSS.
