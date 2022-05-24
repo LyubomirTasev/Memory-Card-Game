@@ -1,2 +1,2 @@
 # Memory-Card-Game
-Basic memory card game, built in JavaScript.
+A basic memory card game, built in JavaScript.
